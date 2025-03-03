@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Padmaraj. I have done my Ph.D. in computers since and am interested in AI projects, Software engineering, Quantum computers and test management.
+My name is Padmaraj. I have done my Ph.D. in computer science and am interested in AI projects, Software engineering, Quantum computers and test management.
 
 
 - 🔭 I’m currently working on Cypress in my free time
