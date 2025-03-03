@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Cypress in my free time
+- 🌱 I’m currently learning AI-driven testing
+- 👯 I’m looking to collaborate on AI driven software testing professional 
+- 📫 How to reach me: padmaraj.nidagundi at gmail.com
+
+
 <!--
 **padmarajnidagundi/padmarajnidagundi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
