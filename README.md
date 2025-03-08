@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Padmaraj. I have done my Ph.D. in computer science and am interested in AI projects, Software engineering, Quantum computers and Software testing.
+My name is Padmaraj. I have completed my Ph.D. in computer science and am interested in AI projects, software engineering, quantum computers, and software testing.
 
 
-- 🔭 I’m currently working on Cypress in my free time
-- 🌱 I’m currently learning AI-driven testing
+- 🔭 I’m currently working on Javascript in my free time
+- 🌱 I’m currently advancing my skills in AI-driven testing
 - 👯 I’m looking to collaborate on AI driven software testing professional 
 - 📫 How to reach me: padmaraj.nidagundi at gmail.com
 
