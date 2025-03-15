@@ -32,10 +32,12 @@ I am a result-oriented software testing *AI-driven testing professional with uni
 • Proficient in test design and handling complex testing projects, SQL/NoSQL databases, public cloud setups (Azure/AWS/GCP), and DevSecOps practices, including Docker and CI/CD pipelines.
 • Strong analytical and communication skills with experience in agile teams, user acceptance testing, and collaborating across global, cross-functional teams.
 
-Skills
+QA Skills
+• AI QA & Model Testing – Test AI chat applications for performance, accuracy, bias, and robustness. 
+• Test Automation & Frameworks – Build scalable automation using Selenium, Cypress, and AI-driven testing tools.
+• AI Tools -  GitHub Copilot, ChatGPT, Deepseek
 • Agile Methodologies
 • Hands-on experience with JavaScript for Software testing frameworks such as Cypress, Selenium,  Playwright and RESTfull.
-• AI Tools -  GitHub Copilot, ChatGPT, Deepseek
 • Team management and mentorship
 • Teamwork
 • Problem Solving
