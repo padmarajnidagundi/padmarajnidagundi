@@ -35,13 +35,18 @@ I am a result-oriented software testing *AI-driven testing professional with uni
 QA Skills
 • AI QA & Model Testing – Test AI chat applications for performance, accuracy, bias, and robustness. 
 • Test Automation & Frameworks – Build scalable automation using Selenium, Cypress, and AI-driven testing tools.
-• AI Tools -  GitHub Copilot, ChatGPT, Deepseek
 • Agile Methodologies
-• Hands-on experience with JavaScript for Software testing frameworks such as Cypress, Selenium,  Playwright and RESTfull.
+• Hands-on experience with JavaScript for Software testing frameworks such as Cypress, Selenium, TestNG,  Playwright and RESTfull.
 • Team management and mentorship
 • Teamwork
 • Problem Solving
 • Engineering
+
+AI-Specific Skills
+• Test AI chat applications for performance, accuracy, bias, and robustness. 
+• Integrating AI with automation testing and test case creation and documentation.
+• Promoting an AI-first mindset with API and functional testing.
+• AI Tools and Promote Engineering -  GitHub Copilot, ChatGPT, Deepseek
 
 Career highlights
 - Implemented a UI test automation framework and integrated a new end-to-end testing suite that reduced regressions by 70%. Additionally.
@@ -49,4 +54,5 @@ Career highlights
 - Reduce 3rd line calls/service disk calls using ITIL practices
 - Experience in AI and ML system testing
 - Experienced as a team lead for 13 FTE, I successfully led software testing and IT support teams and managed KPIs, stakeholder communication, and team budget management. 
-- In my previous job as a team lead, I successfully led test and support teams and managed KPIs, MVP, stakeholder communication, and team budget management.
+
+As a team lead, I successfully led test and support teams and managed KPIs, MVPs, stakeholder communication, and team budget management in my previous job.
