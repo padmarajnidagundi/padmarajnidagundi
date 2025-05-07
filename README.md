@@ -52,7 +52,7 @@ I am a result-oriented software testing *AI-driven testing professional with uni
 **Career highlights**
 - Implemented a UI test automation framework and integrated a new end-to-end testing suite that reduced regressions by 70%. Additionally.
 - Hands-on experience in non-functional testing such as performance testing, software Security testing, accessibility testing and agile product release management.
-- Reduce 3rd line calls/service disk calls using ITIL practices
+- Reduced 80% of 3rd line calls/service disk calls using ITIL practices
 - Experience in AI and ML system testing
 - Experienced as a team lead for 13 FTE, I successfully led software testing and IT support teams and managed KPIs, stakeholder communication, and team budget management.
 
