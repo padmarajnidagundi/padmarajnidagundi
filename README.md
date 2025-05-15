@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Padmaraj. I am deeply interested in computer science, and I am interested in AI projects, software engineering, quantum computers, and software testing.
+My name is Padmaraj. I am deeply interested in computer science topics such as AI projects, software engineering, quantum computers, and software testing.
 
 
 - 🔭 I’m currently working on Javascript in my free time
