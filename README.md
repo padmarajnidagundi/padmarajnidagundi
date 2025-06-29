@@ -3,9 +3,9 @@
 My name is Padmaraj. I am deeply interested in computer science topics such as AI projects, software engineering, quantum computers, and software testing.
 
 
-- 🔭 I’m currently working on Javascript in my free time
+- 🔭 I’m currently working on JavaScript in my free time
 - 🌱 I’m currently advancing my skills in AI-driven testing
-- 👯 I’m looking to collaborate on AI driven software testing professional 
+- 👯 I’m looking to collaborate on AI-driven software testing professional 
 - 📫 How to reach me: padmaraj.nidagundi at gmail.com
 
 
@@ -36,17 +36,18 @@ I am a result-oriented software testing *AI-driven testing professional with uni
 - AI QA & Model Testing – Test AI chat applications for performance, accuracy, bias, and robustness. 
 - Test Automation & Frameworks – Build scalable automation using Selenium, Cypress, and AI-driven testing tools.
 - Agile Methodologies
-- Hands-on experience with JavaScript for Software testing frameworks such as Cypress, Selenium, TestNG,  Playwright and RESTfull.
+- Hands-on experience with JavaScript for Software testing frameworks such as Cypress, Selenium, TestNG,  Playwright and RESTful.
 - Team management and mentorship
 - Teamwork
 - Problem Solving
 - Engineering
+- Reverse Engineering
 
 **AI-Specific Skills**
 - Test AI chat applications for performance, accuracy, bias, and robustness. 
 - Integrating AI with automation testing, test case creation, and documentation.
 - Promoting an AI-first mindset with API and functional testing.
-- AI Tools and Promote Engineering -  GitHub Copilot, Tongyi Lingma.
+- AI Tools and Promote Engineering -  GitHub Copilot, Tongyi Lingma, Google Gemini CLI, Google Jules
 - AI agent creation for internal team use.
 
 **Career highlights**
