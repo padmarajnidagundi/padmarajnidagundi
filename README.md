@@ -26,37 +26,35 @@ Here are some ideas to get you started:
 
 
 **Experience**
-I am a result-oriented software testing *AI-driven testing professional with unique leadership and project management skills. I drive projects to completion with a focus on quality and efficiency. I excel in proactive issue resolution and strategic planning, ensuring alignment with business goals and delivering high-quality outcomes.
-
-- Skilled in functional and non-functional testing (API, UI, performance, security) with hands-on experience in test automation tools, frameworks, and scripting in languages like Java, C#, Python, and JavaScript.
-- Proficient in test design and handling complex testing projects, SQL/Nosql databases, public cloud setups (Azure/AWS/GCP), and DevSecOps practices, including Docker and CI/CD pipelines.
-- Strong analytical and communication skills with experience in agile teams, user acceptance testing, and collaborating across global, cross-functional teams.
+I am a results-oriented AI-driven software testing professional with strong leadership and project management expertise. I specialize in delivering high-quality outcomes by aligning testing strategy with business goals, driving efficiency, and proactively resolving issues. Skilled in functional and non-functional testing (API, UI, performance, security) with hands-on experience in automation frameworks and scripting (Java, C#, Python, JavaScript). Proficient in test design, SQL/NoSQL databases, cloud platforms (Azure, AWS, GCP), and DevSecOps practices, including Docker and CI/CD pipelines. Strong communicator with proven success in agile teams, UAT, and cross-functional collaboration.
 
 **QA Skills**
-- AI QA & Model Testing – Test AI chat applications for performance, accuracy, bias, and robustness. 
-- Test Automation & Frameworks – Build scalable automation using Selenium, Cypress, and AI-driven testing tools.
-- Agile Methodologies
-- Hands-on experience with JavaScript for Software testing frameworks such as Cypress, Selenium, TestNG,  Playwright and RESTful.
-- Team management and mentorship
-- Teamwork
-- Problem Solving
-- Engineering
-- Reverse Engineering
+• AI QA & Model Testing – ensuring AI chat application performance, accuracy, bias, and robustness.
+• Automation – scalable frameworks using Selenium, Cypress, Playwright, TestNG, and RESTful APIs.
+• Agile methodologies, reverse engineering, problem solving, and mentoring.
+• Hands-on experience with performance, security, and accessibility testing.
 
 **AI-Specific Skills**
-- Test AI chat applications for performance, accuracy, bias, and robustness. 
-- Integrating AI with automation testing, test case creation, and documentation.
-- Promoting an AI-first mindset with API and functional testing.
-- AI Tools and Promote Engineering -  GitHub Copilot, Tongyi Lingma, Google Gemini CLI, Google Jules
-- AI agent creation for internal team use.
+**• AI QA – testing AI/ML systems for robustness, transparency, and accuracy.
+• AI-driven automation – test case creation, documentation, and integration.
+• AI Tools – GitHub Copilot, Tongyi Lingma, Google Gemini CLI, Google Jules.
+• AI agent creation for team productivity.
+• Advanced AI Expertise – Agentic AI, Large Reasoning Models (LRM), Vector Databases, RAG (Retrieval Augmented Generation), MCP (Model Context Protocol), MoE (Mixture of Experts), ASI (Artificial Super Intelligence).
+- **
 
 **Career highlights**
-- Implemented a UI test automation framework and integrated a new end-to-end testing suite that reduced regressions by 70%. Additionally.
-- Hands-on experience in non-functional testing such as performance testing, software Security testing, accessibility testing and agile product release management.
-- Reduced 80% of 3rd line calls/service disk calls using ITIL practices
-- Experience in AI and ML system testing
-- Experienced as a team lead for 13 FTE, I successfully led software testing and IT support teams and managed KPIs, stakeholder communication, and team budget management.
+• Designed and implemented a UI test automation framework, integrating an end-to-end suite that reduced regression issues by 70%.
 
-As a team lead, I successfully led test and support teams and managed KPIs, MVPs, stakeholder communication, and team budget management in my previous job.
+• Hands-on experience in non-functional testing including performance, security, accessibility, and agile release management.
+
+• Reduced service desk and 3rd line support calls using ITIL practices.
+
+• Led AI/ML testing initiatives, ensuring ethical and efficient system performance.
+
+• Successfully managed a 13-member QA and IT support team, handling KPIs, MVPs, stakeholder communications, and budget planning.
+
+• Championed adoption of AI-first practices in testing, boosting quality and efficiency across global teams.
+
+• As a team lead, I successfully led test and support teams and managed KPIs, MVPs, stakeholder communication, and team budget management in my previous job.
 
 
