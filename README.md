@@ -1,10 +1,10 @@
 
 My name is Padmaraj. I am deeply interested in computer science topics such as AI projects, software engineering, quantum computers, and software testing.
 
-🔭 I’m currently working on JavaScript in my free time
-🌱 I’m currently advancing my skills in AI-driven testing
-👯 I’m looking to collaborate on AI-driven software testing professional
-📫 How to reach me: padmaraj.nidagundi at gmail.com
+ - I’m currently working on JavaScript in my free time
+ - I’m currently advancing my skills in AI-driven testing
+ - I’m looking to collaborate on AI-driven software testing professional
+ - How to reach me: padmaraj.nidagundi at gmail.com
 
 Experience I am a results-oriented AI-driven software testing professional with strong leadership and project management expertise. I specialize in delivering high-quality outcomes by aligning testing strategy with business goals, driving efficiency, and proactively resolving issues. 
 
