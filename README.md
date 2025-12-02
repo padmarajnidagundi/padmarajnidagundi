@@ -8,7 +8,7 @@ My name is Padmaraj. I am deeply interested in computer science topics such as A
 
 Experience I am a results-oriented AI-driven software testing professional with strong leadership and project management expertise. I specialize in delivering high-quality outcomes by aligning testing strategy with business goals, driving efficiency, and proactively resolving issues. 
 
-Skilled in functional and non-functional testing (API, UI, performance, security) with hands-on experience in automation frameworks and scripting (Java, C#, Python, JavaScript). Proficient in test design, SQL/NoSQL databases, cloud platforms (Azure, AWS, GCP), and DevSecOps practices, including Docker and CI/CD pipelines. Strong communicator with proven success in agile teams, UAT, and cross-functional collaboration.
+Skilled in functional and non-functional testing (API, UI, performance, security) with hands-on experience in automation frameworks and scripting (Java, C#, Python, TypeScript, JavaScript). Proficient in test design, SQL/NoSQL databases, cloud platforms (Azure, AWS, GCP), and DevSecOps practices, including Docker and CI/CD pipelines. Strong communicator with proven success in agile teams, UAT, and cross-functional collaboration.
 
 **QA Skills**
 
