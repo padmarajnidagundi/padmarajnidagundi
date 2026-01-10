@@ -41,8 +41,6 @@ Results-oriented professional with strong leadership and project management expe
 ## 🤝 Let's Collaborate
 I'm looking to collaborate on AI-driven software testing and development projects. Open to opportunities in automation, AI QA, and team leadership roles.
 
-📧 **Contact**: padmaraj.nidagundi@gmail.com
-
----
+📧 **Contact**: padmaraj.nidagundi at gmail.com
 
 *Keywords: Software Testing, AI-Driven Testing, Automation Frameworks, JavaScript, TypeScript, Java, Selenium, Cypress, Playwright, AI/ML Testing, Cloud Platforms, DevSecOps*
