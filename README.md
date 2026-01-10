@@ -1,40 +1,48 @@
 
-My name is Padmaraj. I am deeply interested in computer science topics such as AI projects, software engineering, quantum computers, and software testing.
+# 👋 Hi, I'm Padmaraj Nidagundi
 
- - I’m currently working on JavaScript, TypeScript and Java test automation focused projects in my free time
- - I’m currently advancing my skills in AI-driven testing
- - I’m looking to collaborate with an AI-driven software testing and developer professional
- - How to reach me: padmaraj.nidagundi at gmail.com
+**AI-Driven Software Testing Professional | Automation Expert | Team Leader**
 
-Experience I am a results-oriented AI-driven software testing professional with strong leadership and project management expertise. I specialize in delivering high-quality outcomes by aligning testing strategy with business goals, driving efficiency, and proactively resolving issues. 
+Passionate about leveraging AI and automation to revolutionize software testing. Experienced in delivering high-quality software through strategic testing, leadership, and innovative technologies.
 
-Skilled in functional and non-functional testing (API, UI, performance, security) with hands-on experience in automation frameworks and scripting (Java, C#, Python, TypeScript, JavaScript). Proficient in test design, SQL/NoSQL databases, cloud platforms (Azure, AWS, GCP), and DevSecOps practices, including Docker and CI/CD pipelines. Strong communicator with proven success in agile teams, UAT, and cross-functional collaboration.
+## 🚀 Current Focus
+- Building JavaScript, TypeScript, and Java test automation projects
+- Advancing skills in AI-driven testing methodologies
+- Exploring AI projects, software engineering, quantum computing, and software testing
 
-**QA Skills**
+## 🛠️ Skills & Expertise
 
- - Automation – Develop Scalable automation frameworks using Selenium, Cypress, Playwright,
- - TestNG, and RESTful APIs.
- - AI QA & Model Testing – ensuring AI chat application performance,
-   accuracy, bias, and robustness.
- - AI QA – testing AI/ML systems for robustness, transparency, and accuracy.
- - AI-driven automation – test case creation, documentation, and integration.
- - AI Tools – GitHub Copilot, Tongyi Lingma, Google Gemini CLI, Google Jules.
- - AI agent creation for team productivity.
- - Advanced AI Expertise – Agentic AI, Large Reasoning Models (LRM), Vector Databases,  - RAG (Retrieval Augmented Generation), MCP (Model Context Protocol), MoE (Mixture of Experts), ASI (Artificial Super Intelligence).
+### QA & Automation Skills
+- **Automation Frameworks**: Selenium, Cypress, Playwright, TestNG, RESTful APIs
+- **AI QA & Model Testing**: Ensuring AI chat application performance, accuracy, bias, and robustness
+- **AI/ML Testing**: Robustness, transparency, and accuracy for AI systems
+- **AI-Driven Automation**: Test case creation, documentation, and integration
+- **AI Tools**: GitHub Copilot, Tongyi Lingma, Google Gemini CLI, Google Jules
+- **AI Agent Creation**: Boosting team productivity with intelligent automation
+- **Advanced AI**: Agentic AI, Large Reasoning Models (LRM), Vector Databases, RAG, MCP, MoE, ASI
 
-**Engineering Skills**
+### Engineering & Testing Skills
+- Functional & Non-Functional Testing (API, UI, Performance, Security)
+- Test Design, SQL/NoSQL Databases, Cloud Platforms (Azure, AWS, GCP)
+- DevSecOps: Docker, CI/CD Pipelines
+- Agile Methodologies, Reverse Engineering, Problem Solving
+- Performance, Security, Accessibility Testing
+- ITIL Practices, Agile Release Management
 
- - Agile methodologies, reverse engineering, problem solving.
- - Hands-on    experience with performance, security, and accessibility
-   testing.
- - AI-Specific Skills Leading multiple teams
+## 💼 Professional Experience
+Results-oriented professional with strong leadership and project management expertise. Specialize in aligning testing strategy with business goals, driving efficiency, and resolving issues proactively.
 
-**Career highlights**
+- **Team Leadership**: Managed 13-member QA and IT support teams, handling KPIs, MVPs, stakeholder communications, and budget planning
+- **Automation Achievements**: Designed UI test automation framework reducing regression issues by 70%
+- **AI Initiatives**: Led AI/ML testing ensuring ethical and efficient system performance
+- **Efficiency Gains**: Reduced service desk and 3rd line support calls using ITIL practices
+- **Innovation**: Championed AI-first practices in testing, boosting quality and efficiency across global teams
 
- - Designed and implemented a UI test automation framework, integrating an end-to-end suite that reduced regression issues by 70%.
- - Hands-on experience in non-functional testing including performance, security, accessibility, and agile release management.
- - Reduced service desk and 3rd line support calls using ITIL practices.
- - Led AI/ML testing initiatives, ensuring ethical and efficient system performance.
- - Successfully managed a 13-member QA and IT support team, handling KPIs, MVPs,  - stakeholder communications, and budget planning.
- - Championed adoption of AI-first practices in testing, boosting quality and efficiency across global teams.
- - As a team lead, I successfully led test and support teams and managed KPIs, MVPs, stakeholder communication, and team budget management in my previous job.
+## 🤝 Let's Collaborate
+I'm looking to collaborate on AI-driven software testing and development projects. Open to opportunities in automation, AI QA, and team leadership roles.
+
+📧 **Contact**: padmaraj.nidagundi@gmail.com
+
+---
+
+*Keywords: Software Testing, AI-Driven Testing, Automation Frameworks, JavaScript, TypeScript, Java, Selenium, Cypress, Playwright, AI/ML Testing, Cloud Platforms, DevSecOps*
