@@ -19,7 +19,7 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 
 -   **AI-Driven Testing & QA**:
     
-    -   LLM Chatbot Testing (Accuracy, Hallucination, Bias, Security, Prompt Robustness) 
+    -   LLM Chatbot Testing with PromptFoo, Agenta (Accuracy, Hallucination, Bias, Security, Prompt Robustness) 
     -   AI Model Validation, Explainability & Trustworthiness 
     -   Agentic AI Testing (Autonomous workflows, decision validation, safety) 
     -   AI Agent Creation for productivity automation  
@@ -36,7 +36,7 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 -   Performance Testing: k6, JMeter, Gatling
 -   Cloud Load Testing: AWS Load Testing, Azure Load Testing
 -   Observability: Grafana
--   Security Testing: OWASP ZAP, Burp Suite, SonarQube
+-   Security Testing / Red Teaming : OWASP ZAP, Burp Suite, SonarQube
 -   API Security: Postman Security
 -   **API & Backend Testing**: RESTful APIs, GraphQL, Microservices
 -   **Test Automation**: JavaScript, TypeScript, Java, Python
