@@ -4,7 +4,6 @@
 
 Passionate about leveraging AI and automation to revolutionize software testing. Experienced in delivering high-quality software through strategic testing, leadership, and innovative technologies.
 
-----------
 
 ## 🚀 Current Focus
 
@@ -17,7 +16,6 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 -   Designing and testing AI agents, chatbots, and autonomous systems
     
 
-----------
 
 ## 🛠️ Skills & Expertise (2026-Ready Automation Engineer)
 
@@ -42,7 +40,6 @@ Passionate about leveraging AI and automation to revolutionize software testing.
     -   OpenAI APIs, LangChain, AutoGen, CrewAI
         
 
-----------
 
 ### 🧪 QA & Automation Engineering
 
@@ -67,7 +64,6 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 -   **LLM & AI System Testing**: Chatbot validation, prompt testing, load & security testing
     
 
-----------
 
 ### ☁️ Cloud, DevSecOps & Infrastructure
 
@@ -80,7 +76,6 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 -   **Cloud Test Automation**: Scalable test execution, AI model validation pipelines
     
 
-----------
 
 ### 🔐 Cybersecurity & AI Security
 
@@ -93,7 +88,6 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 -   Cloud Security Testing (IAM, Network, API security)
     
 
-----------
 
 ### 🧠 Data & Engineering
 
@@ -106,7 +100,6 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 -   Reverse Engineering & System Observability
     
 
-----------
 
 ### 🏗️ Engineering & Testing Practices
 
@@ -121,7 +114,6 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 -   AI System Governance & Compliance
     
 
-----------
 
 ## 💼 Professional Experience
 
@@ -138,7 +130,6 @@ Results-oriented professional with strong leadership and project management expe
 -   **Innovation**: Championed AI-first practices in testing, boosting quality and efficiency across global teams
     
 
-----------
 
 ## 🤝 Let's Collaborate
 
