@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Padmaraj Nidagundi
 
-**AI Driven Software Testing Professional | Test Automation | Team Leader | QA Test Manager**
+**AI Driven Software Testing Professional | Test Automation | Team Leader | Engineering Manager**
 
 Passionate about leveraging AI and automation to revolutionize software testing. Experienced in delivering high-quality software through strategic testing, leadership, and innovative technologies.
 
@@ -8,14 +8,10 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 ## 🚀 Current Focus
 
 -   Building JavaScript, TypeScript, Java, and Python AI driven test automation projects
-    
 -   Advancing skills in AI-driven testing methodologies
-    
 -   Exploring AI projects, LLM systems, MCP servers, software engineering, quantum computing, and next gen software testing
-    
 -   Designing and testing AI agents, chatbots, and autonomous systems
     
-
 
 ## 🛠️ Skills & Expertise
 
@@ -23,97 +19,64 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 
 -   **AI-Driven Testing & QA**:
     
-    -   LLM Chatbot Testing (Accuracy, Hallucination, Bias, Security, Prompt Robustness)
-        
-    -   AI Model Validation, Explainability & Trustworthiness
-        
-    -   Agentic AI Testing (Autonomous workflows, decision validation, safety)
-        
-    -   AI Agent Creation for productivity automation
-        
+    -   LLM Chatbot Testing (Accuracy, Hallucination, Bias, Security, Prompt Robustness) 
+    -   AI Model Validation, Explainability & Trustworthiness 
+    -   Agentic AI Testing (Autonomous workflows, decision validation, safety) 
+    -   AI Agent Creation for productivity automation  
     -   RAG, Vector Databases, MCP Servers, MoE, LRM, ASI
         
 -   **AI Tools & Platforms**
     
-    -   GitHub Copilot, Tongyi Lingma, Google Gemini CLI, Google Jules
-        
+    -   GitHub Copilot, Tongyi Lingma, Google Gemini CLI, Google Jules   
     -   OpenAI APIs, LangChain, AutoGen, CrewAI
         
-
-
 ### 🧪 QA & Automation Engineering
 
 -   **Automation Frameworks**: Selenium, Cypress, Playwright, TestNG
-
 -   Performance Testing: k6, JMeter, Gatling
-
 -   Cloud Load Testing: AWS Load Testing, Azure Load Testing
-
 -   Observability: Grafana
-
 -   Security Testing: OWASP ZAP, Burp Suite, SonarQube
-
 -   API Security: Postman Security
-    
 -   **API & Backend Testing**: RESTful APIs, GraphQL, Microservices
-    
 -   **Test Automation**: JavaScript, TypeScript, Java, Python
-    
 -   **AI-Driven Automation**: Test generation, self-healing tests, autonomous regression
-    
 -   **LLM & AI System Testing**: Chatbot validation, prompt testing, load & security testing
     
-
 
 ### ☁️ Cloud, DevSecOps & Infrastructure
 
 -   **Cloud Computing**: AWS & Azure (Cloud testing, automation, monitoring)
-    
 -   **DevSecOps**: Docker, CI/CD Pipelines, GitHub Actions, Azure DevOps
-    
 -   **MCP Servers**: AI tool orchestration & model context management
-    
 -   **Cloud Test Automation**: Scalable test execution, AI model validation pipelines
     
-
 
 ### 🔐 Cybersecurity & AI Security
 
 -   **Cybersecurity Testing** (Especially AI & Cloud Systems)
-    
 -   AI Prompt Injection & Jailbreak Testing
-    
 -   Data Privacy, Model Security & AI Threat Modeling
-    
 -   Cloud Security Testing (IAM, Network, API security)
     
-
 
 ### 🧠 Data & Engineering
 
 -   **SQL & NoSQL Databases**
     
 -   Data Validation & ETL Testing
-    
 -   Performance, Load & Reliability Engineering
-    
 -   Reverse Engineering & System Observability
     
-
 
 ### 🏗️ Engineering & Testing Practices
 
 -   Functional & Non-Functional Testing (API, UI, Performance, Security, Accessibility)
-    
 -   Agile & DevOps Methodologies
-    
 -   ITIL Practices & Release Management
-    
 -   Cloud-Native & Microservices Testing
-    
 -   AI System Governance & Compliance
     
-
 
 ## 💼 Professional Experience
 
@@ -129,7 +92,6 @@ Results-oriented professional with strong leadership and project management expe
     
 -   **Innovation**: Championed AI-first practices in testing, boosting quality and efficiency across global teams
     
-
 
 ## 🤝 Let's Collaborate
 
