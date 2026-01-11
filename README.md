@@ -8,11 +8,11 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 
 ## 🚀 Current Focus
 
--   Building JavaScript, TypeScript, Java, and Python test automation projects
+-   Building JavaScript, TypeScript, Java, and Python AI driven test automation projects
     
 -   Advancing skills in AI-driven testing methodologies
     
--   Exploring AI projects, LLM systems, MCP servers, software engineering, quantum computing, and next-gen software testing
+-   Exploring AI projects, LLM systems, MCP servers, software engineering, quantum computing, and next gen software testing
     
 -   Designing and testing AI agents, chatbots, and autonomous systems
     
@@ -47,6 +47,16 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 ### 🧪 QA & Automation Engineering
 
 -   **Automation Frameworks**: Selenium, Cypress, Playwright, TestNG
+
+-   Performance Testing: k6, JMeter, Gatling
+
+-   Cloud Load Testing: AWS Load Testing, Azure Load Testing
+
+-   Observability: Grafana
+
+-   Security Testing: OWASP ZAP, Burp Suite, SonarQube
+
+-   API Security: Postman Security
     
 -   **API & Backend Testing**: RESTful APIs, GraphQL, Microservices
     
