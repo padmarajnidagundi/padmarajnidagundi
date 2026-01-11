@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Padmaraj Nidagundi
 
-**AI Driven Software Testing Professional | Automation Expert | Team Leader**
+**AI Driven Software Testing Professional | Test Automation | Team Leader | QA Test Manager**
 
 Passionate about leveraging AI and automation to revolutionize software testing. Experienced in delivering high-quality software through strategic testing, leadership, and innovative technologies.
 
