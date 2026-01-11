@@ -17,7 +17,7 @@ Passionate about leveraging AI and automation to revolutionize software testing.
     
 
 
-## 🛠️ Skills & Expertise (2026-Ready Automation Engineer)
+## 🛠️ Skills & Expertise
 
 ### 🤖 AI, Automation & Future Tech
 
