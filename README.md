@@ -50,7 +50,7 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 -   **DevSecOps**: Docker, CI/CD Pipelines, GitHub Actions, Azure DevOps
 -   **MCP Servers**: AI tool orchestration & model context management
 -   **Cloud Test Automation**: Scalable test execution, AI model validation pipelines
-    
+
 
 ### 🔐 Cybersecurity & AI Security
 
@@ -59,16 +59,13 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 -   Data Privacy, Model Security & AI Threat Modeling
 -   Cloud Security Testing (IAM, Network, API security)
     
-
 ### 🧠 Data & Engineering
 
 -   **SQL & NoSQL Databases**
-    
 -   Data Validation & ETL Testing
 -   Performance, Load & Reliability Engineering
 -   Reverse Engineering & System Observability
     
-
 ### 🏗️ Engineering & Testing Practices
 
 -   Functional & Non-Functional Testing (API, UI, Performance, Security, Accessibility)
@@ -98,14 +95,10 @@ Results-oriented professional with strong leadership and project management expe
 I'm looking to collaborate on AI-driven software testing, LLM systems, and automation engineering projects. Open to opportunities in:
 
 -   Automation Architect
-    
 -   AI QA Engineer
-    
 -   LLM & Chatbot Testing Engineer
-    
 -   SDET (AI & Cloud)
-    
 -   Test Engineering Lead
-    
+
 
 📧 **Contact**: padmaraj.nidagundi at gmail.com
