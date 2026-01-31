@@ -6,10 +6,10 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 
 
 ## 🚀 Current Focus
-
--   Building JavaScript, TypeScript, Java, and Python AI driven test automation projects
+-   Actively started learning Quantum programming
+-   Building JavaScript, TypeScript, Java, and Python AI-driven test automation projects
 -   Advancing skills in AI-driven testing methodologies
--   Exploring AI projects, LLM systems, MCP servers, software engineering, quantum computing, and next gen software testing
+-   Exploring AI projects, LLM systems, MCP servers, software engineering, quantum computing, and next-gen software testing
 -   Designing and testing AI agents, chatbots, and autonomous systems
     
 
