@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Padmaraj Nidagundi
 
-**Quantum programming | AI Driven Software Testing Professional | Test Automation | Team Leader | Shift-left | Engineering Manager**
+**AI Agent Orchestration | AI Driven Software Testing Professional | Test Automation | Team Leader | Shift-left | Engineering Manager**
 
 Passionate about leveraging AI and automation to revolutionize software testing. Experienced in delivering high-quality software through strategic testing, leadership, and innovative technologies.
 
@@ -15,19 +15,31 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 
 ## 🛠️ Skills & Expertise
 
-### 🤖 AI, Automation & Future Tech
+### 🤖 AI Agent Orchestration, Automation & Future Tech
 
 -   **AI-Driven Testing & QA**:
-    
-    -   LLM Chatbot Testing with PromptFoo, Agenta (Accuracy, Hallucination, Bias, Security, Prompt Robustness) 
-    -   AI Model Validation, Explainability & Trustworthiness 
-    -   Agentic AI Testing (Autonomous workflows, decision validation, safety) 
-    -   AI Agent Creation for productivity automation  
-    -   RAG, Vector Databases, MCP Servers, MoE, LRM, ASI
+Experience
+
+  -   AI-first QA Architect / Principal SDET specialising in   -   transforming traditional testing into intelligent, scalable, and autonomous AI-driven quality ecosystems. Expert in aligning QA strategy with business goals, leveraging GenAI, agentic workflows, and modern     TestOps to improve efficiency, coverage, and delivery speed significantly.
+
+
+Core Skills
+
+  -   AI-driven QA, Agentic workflows, GenAI integration
+  -   Automation frameworks (Playwright, Selenium, Cypress, APIs)
+  -   TestOps & CI/CD, Docker, DevSecOps practices
+  -   UI, API, performance, security, accessibility testing
+  -   Agile leadership, mentoring, and autonomous team enablement
+
+AI Expertise
+
+  -   AI/ML & LLM testing (accuracy, bias, robustness)
+  -   AI agents for test generation, execution, and documentation
+  -   RAG, vector databases, MCP-based architectures
         
 -   **AI Tools & Platforms**
     
-    -   GitHub Copilot, Tongyi Lingma, Google Gemini CLI, Google Jules   
+    -   Copilot, Gemini CLI, and AI Agent Orchestration productivity ecosystems  
     -   OpenAI APIs, LangChain, AutoGen, CrewAI
         
 ### 🧪 QA & Automation Engineering
@@ -36,7 +48,7 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 -   Performance Testing: k6, JMeter, Gatling
 -   Cloud Load Testing: AWS Load Testing, Azure Load Testing
 -   Observability: Grafana
--   Security Testing / Red Teaming : OWASP ZAP, Burp Suite, SonarQube
+-   Security Testing / Red Teaming: OWASP ZAP, Burp Suite, SonarQube
 -   API Security: Postman Security
 -   **API & Backend Testing**: RESTful APIs, GraphQL, Microservices
 -   **Test Automation**: JavaScript, TypeScript, Java, Python
@@ -56,7 +68,7 @@ Passionate about leveraging AI and automation to revolutionize software testing.
 
 -   **Cybersecurity Testing** (Especially AI & Cloud Systems)
 -   AI Prompt Injection & Jailbreak Testing
--   Data Privacy, Model Security & AI Threat Modeling
+-   Data Privacy, Model Security & AI Threat Modelling
 -   Cloud Security Testing (IAM, Network, API security)
     
 ### 🧠 Data & Engineering
