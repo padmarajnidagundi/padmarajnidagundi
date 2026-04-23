@@ -4,8 +4,6 @@
 
 I build and test AI agents, LLM systems, and autonomous workflows — while leading engineering teams to deliver high-quality software through smart QA automation and AI-first practices.
 
----
-
 ## 🤖 AI Agents
 
 -   **Building**: Autonomous agents using LangChain, AutoGen, CrewAI, and MCP Servers
@@ -13,7 +11,6 @@ I build and test AI agents, LLM systems, and autonomous workflows — while lead
 -   **Orchestrating**: Multi-agent pipelines, RAG systems, and LLM-powered automation
 -   **Securing**: Prompt injection testing, jailbreak detection, and AI threat modeling
 
----
 ## 🚀 What I Do
 
 -   AI Agent creation, testing, and evaluation (LLM, RAG, MCP, MoE)
@@ -24,15 +21,11 @@ I build and test AI agents, LLM systems, and autonomous workflows — while lead
 -   Migration old QA automation framework to new.
 -   Team leadership — managed 13-member QA teams, KPIs, stakeholder comms, budget
 
----
-
 ## 🛠️ Tech Stack
 
 `AI Agents` `LangChain` `AutoGen` `CrewAI` `MCP Servers` `OpenAI APIs` `GitHub Copilot`  
 `Playwright` `Cypress` `Selenium` `k6` `JMeter` `OWASP ZAP` `Burp Suite`  
 `AWS` `Azure` `Docker` `GitHub Actions` `Azure DevOps` `Grafana`
-
----
 
 ## 🤝 Open To
 
