@@ -4,12 +4,16 @@
 
 I build and test AI agents, LLM systems, and autonomous workflows — while leading engineering teams to deliver high-quality software through smart QA automation and AI-first practices.
 
+---
+
 ## 🤖 AI Agents
 
 -   **Building**: Autonomous agents using LangChain, AutoGen, CrewAI, and MCP Servers
 -   **Testing**: Agentic AI workflows — decision validation, tool-use accuracy, safety, and hallucination detection
 -   **Orchestrating**: Multi-agent pipelines, RAG systems, and LLM-powered automation
 -   **Securing**: Prompt injection testing, jailbreak detection, and AI threat modeling
+
+---
 
 ## 🚀 What I Do
 
@@ -21,14 +25,18 @@ I build and test AI agents, LLM systems, and autonomous workflows — while lead
 -   Migration old QA automation framework to new.
 -   Team leadership — managed 13-member QA teams, KPIs, stakeholder comms, budget
 
+---
+
 ## 🛠️ Tech Stack
 
 `AI Agents` `LangChain` `AutoGen` `CrewAI` `MCP Servers` `OpenAI APIs` `GitHub Copilot`  
 `Playwright` `Cypress` `Selenium` `k6` `JMeter` `OWASP ZAP` `Burp Suite`  
 `AWS` `Azure` `Docker` `GitHub Actions` `Azure DevOps` `Grafana`
 
+---
+
 ## 🤝 Open To
 
 Automation Architect · AI QA Engineer · LLM & Agent Testing · SDET (AI & Cloud) · Test Engineering Lead
 
-📧 **Contact**: padmaraj.nidagundi at gmail.com
+📧 **Contact**: padmaraj nidagundi at gmail.com
