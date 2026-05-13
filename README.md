@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Padmaraj Nidagundi
 
+![Profile Views](https://komarev.com/ghpvc/?username=padmarajnidagundi&label=Profile%20views&color=0e75b6&style=flat)
+
 **AI Agents | AI-Driven Testing | Test Automation | Engineering Manager | Shift-Left**
 
 I build and test AI agents, LLM systems, and autonomous workflows — while leading engineering teams to deliver high-quality software through smart QA automation and AI-first practices.
