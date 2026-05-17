@@ -1,38 +1,49 @@
-# 👋 Hi, I'm Padmaraj Nidagundi
+# Hi, I'm Padmaraj Nidagundi
 
-![Profile Views](https://komarev.com/ghpvc/?username=padmarajnidagundi&label=Profile%20views&color=0e75b6&style=flat)
+AI Quality Engineering Leader focused on Agentic AI, LLM Reliability, and Scalable Test Automation.
 
-**AI Agents | AI-Driven Testing | Test Automation | Engineering Manager | Shift-Left**
+I design, build, and validate AI QA agents for production, combining hands-on engineering with team leadership.
 
-I build and test AI agents, LLM systems, and autonomous workflows — while leading engineering teams to deliver high-quality software through smart QA automation and AI-first practices.
+## My Focus is: 3-Layer Agent Strategy
 
-## 🤖 AI Agents
+- **Layer 1 - Local Developer Agents**: Validate developer builds, run pre-merge checks, and enforce shift-left quality gates.
+- **Layer 2 - QA Agents**: Generate and maintain tests, execute intelligent regression, and validate workflows across UI, API, and LLM paths.
+- **Layer 3 - Vendor Agents (On Demand)**: Use specialized external agents for deep analysis, performance spikes, and targeted quality audits.
 
--   **Building**: Autonomous agents using LangChain, AutoGen, CrewAI, and MCP Servers
--   **Testing**: Agentic AI workflows — decision validation, tool-use accuracy, safety, and hallucination detection
--   **Orchestrating**: Multi-agent pipelines, RAG systems, and LLM-powered automation
--   **Securing**: Prompt injection testing, jailbreak detection, and AI threat modeling
+## What I Build
 
-## 🚀 What I Do
+- Agentic quality frameworks for LLM, RAG, and MCP-based systems
+- Evaluation pipelines for accuracy, hallucination, safety, latency, and cost
+- AI-assisted test creation with human-in-the-loop controls
+- Multi-agent orchestration for autonomous QA and release validation
+- Security testing for AI systems: prompt injection, jailbreaks, and abuse cases
 
--   AI Agent creation, testing, and evaluation (LLM, RAG, MCP, MoE)
--   QA agent building for intelligent test orchestration and validation
--   LLM/Chatbot testing — accuracy, bias, hallucination, prompt robustness (PromptFoo, Agenta)
--   Test automation in JavaScript, TypeScript, Java, and Python (Playwright, Cypress, Selenium)
--   iOS & Android native mobile testing
--   Cloud & DevSecOps — AWS, Azure, Docker, GitHub Actions, CI/CD
--   Security & performance testing — OWASP ZAP, Burp Suite, k6, JMeter
--   Migration of the old QA automation framework to the new.
--   Team leadership — managed 13-member QA teams, KPIs, stakeholder comms, and budget
+## Core Skills
 
-## 🛠️ Tech Stack
+- AI/LLM Testing: prompt robustness, bias checks, factuality, guardrail validation
+- Test Automation: Playwright, Cypress, Selenium, API and contract testing
+- Programming: JavaScript, TypeScript, Java, Python
+- Performance and Security: k6, JMeter, OWASP ZAP, Burp Suite
+- Cloud and DevOps: AWS, Azure, Docker, GitHub Actions, CI/CD
+- Leadership: engineering management, QA strategy, KPI ownership, stakeholder communication
 
-`AI Agents` `LangChain` `AutoGen` `CrewAI` `MCP Servers` `OpenAI APIs` `GitHub Copilot`  
-`Playwright` `Cypress` `Selenium` `iOS Testing` `Android Testing` `k6` `JMeter` `OWASP ZAP` `Burp Suite`  
-`AWS` `Azure` `Docker` `GitHub Actions` `Azure DevOps` `Grafana`
+## My High-Impact Areas
 
-## 🤝 Open To
+- Agent Reliability Engineering
+- AI Test Architecture and Governance
+- Shift-Left and Continuous Quality for AI products
+- Legacy-to-modern automation framework migration
+- Scalable quality operations for fast-release teams
 
-Automation Architect · AI QA Engineer · LLM & Agent Testing · SDET (AI & Cloud) · Test Engineering Lead
+## Open To Roles
 
-📧 **Contact**: padmaraj nidagundi at gmail.com
+- AI QA Engineer
+- Agent Reliability Engineer
+- AI Test Architect
+- SDET (AI and Cloud)
+- Test Engineering Lead
+- Engineering Manager - Quality and AI
+
+## Contact
+
+padmaraj nidagundi at gmail.com
