@@ -2,15 +2,15 @@
 
 AI Quality Engineering Leader focused on Agentic AI, LLM Reliability, and Scalable Test Automation.
 
-I design, build, and validate AI QA agents for production, combining hands-on engineering with team leadership.
+I design, build, and validate AI QA agents for dev, stage and production environments, combining hands-on engineering with team leadership.
 
 ## My Focus is: 3-Layer Agent Strategy
 
-- **Layer 1 - Local Developer Agents**: Validate developer builds, run pre-merge checks, and enforce shift-left quality gates.
+- **Layer 1 - Local Developer Agents**: Validate developer builds in the early stage, run pre-merge checks, and enforce shift-left quality gates.
 - **Layer 2 - QA Agents**: Generate and maintain tests, execute intelligent regression, and validate workflows across UI, API, and LLM paths.
 - **Layer 3 - Vendor Agents (On Demand)**: Use specialized external agents for deep analysis, performance spikes, and targeted quality audits.
 
-## What I Build
+## What I Built
 
 - Agentic quality frameworks for LLM, RAG, and MCP-based systems
 - Evaluation pipelines for accuracy, hallucination, safety, latency, and cost
