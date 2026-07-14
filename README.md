@@ -1,4 +1,5 @@
 # Hi, I'm Padmaraj Nidagundi
+From 2025 to 2026, hands-on working in the AI - Agentic Development Environment (ADE) utilising Claude code and GitHub Copilot.
 
 AI Quality Engineering Leader focused on Agentic AI, LLM Reliability, and Scalable Quality Engineering for AI products.
 
